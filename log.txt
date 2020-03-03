@@ -1,0 +1,4 @@
+2018-12-29 19:53:32,322-INFO-learn_logging.py-huihui-日志信息：这是一个info信息
+2018-12-29 19:53:32,323-WARNING-learn_logging.py-huihui-日志信息：这是一个warning信息
+2018-12-29 19:53:32,323-ERROR-learn_logging.py-huihui-日志信息：这是一个error信息
+2018-12-29 19:53:32,323-CRITICAL-learn_logging.py-huihui-日志信息：这是一个critica信息

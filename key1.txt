@@ -1,0 +1,14 @@
+((Decimal('43'),),)888Y((Decimal('90'),),)755R((Decimal('90'),),)755R((Decimal('90'),),)755R((Decimal('90'),),)755R((Decimal('43'),),)888Y((Decimal('43'),),)888Y((Decimal('43'),),)888Y((Decimal('90'),),)755R
+((Decimal('90'),),)755R
+((Decimal('90'),),)755R
+((Decimal('90'),),)755R
+((Decimal('43'),),)888Y
+((Decimal('43'),),)888Y
+((Decimal('43'),),)888Y
+((Decimal('90'),),)755R
+((Decimal('90'),),)755R
+((Decimal('90'),),)755R
+((Decimal('90'),),)755R
+((Decimal('43'),),)888Y
+((Decimal('43'),),)888Y
+((Decimal('43'),),)888Y
